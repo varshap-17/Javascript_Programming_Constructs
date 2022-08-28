@@ -1,0 +1,11 @@
+let a=4;
+let b=6;
+let c=8;
+let prob1=a+b*c;
+console.log("First problem:"+prob1);
+let prob2=a%b+c;
+console.log("Second problem:"+prob2);
+let prob3=c+a/b;
+console.log("Thrid problem:"+prob3);
+let prob4=a*b+c;
+console.log("Fourth problem:"+prob4);
